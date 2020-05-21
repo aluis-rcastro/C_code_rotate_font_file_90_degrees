@@ -1,4 +1,4 @@
-When working with displays for which we don't have char maps at desired size, we need to insert character maps in the code program. Sice drawing the whole table is a task somewhat painful, the next step is to make a search on the Web for some available map file.
+When working with displays for which there is not char a map library made at the necessary size, we need to insert these maps in the code program as custom arrays. Since drawing the whole table is a task somewhat painful, the next step is to make a search on the Web for some available map file.
 
 However, after find it and put the map into the code, not rarely we realize that these characters were not drawn in the direction which the panel will be positioned, and we will need to make rotation for +/- 90 degrees, what means:
 
